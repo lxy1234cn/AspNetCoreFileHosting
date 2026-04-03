@@ -2,7 +2,7 @@
 
 一个基于 ASP.NET Core Minimal API 的轻量级文件托管服务，支持文件上传、分页浏览、多格式链接生成和实时统计。已部署至云服务器，开箱即用。
 
-[![.NET](https://img.shields.io/badge/.NET-8.0+-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-7.0+-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## ✨ 核心特性
