@@ -21,7 +21,7 @@ git clone https://github.com/yourusername/FileHost.git
 cd FileHost
 ```
 
-# 运行（自动创建 uploads 目录）
+# 运行（自动创建 uploads 目录，如果没有自动创建，就请手动创建），同时要在 uploads 的 属性 ---> 安全里面，设置IIS用户的权限
 dotnet run
 
 # 访问 http://localhost:5000
